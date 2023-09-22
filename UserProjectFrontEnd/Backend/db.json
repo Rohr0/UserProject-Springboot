@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "Rocky",
+      "salary": "1000000",
+      "company": "KGF",
+      "id": 1
+    },
+    {
+      "name": "Rohit",
+      "salary": "500000",
+      "company": "Apple",
+      "id": 2
+    },
+    {
+      "name": "Chayan",
+      "salary": "3000000",
+      "company": "Apple",
+      "id": 3
+    },
+    {
+      "name": "Shaik",
+      "salary": "600000",
+      "company": "Amazon",
+      "id": 5
+    },
+    {
+      "name": "Rag",
+      "salary": "500000",
+      "company": "Infit",
+      "id": 6
+    }
+  ]
+}
